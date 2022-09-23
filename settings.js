@@ -55,22 +55,22 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
 global.vcardowner = ['923216740469'] //ur owner number
-global.ownername = "🦄Taskeen Official" //ur owner name
-global.ytname = "Taskeen: Official" //ur yt chanel name
-global.socialm = "GitHub: DGXeon" //ur github or insta name
-global.location = "Pakistan, Rahimyar, Khanpur" //ur location
+global.ownername = "Ͳąʂҟҽҽղ βąӀօçհ 03216740469" //ur owner name
+global.ytname = "YT: Ͳąʂҟҽҽղ βąӀօçհ 03216740469  " //ur yt chanel name
+global.socialm = "Ͳąʂҟҽҽղ βąӀօçհ 03216740469 " //ur github or insta name
+global.location = "Pakistan, Khanpur" //ur location
 
 //bot bomdy 
 global.owner = ['923216740469']
 global.ownertag = '923216740469' //ur tag number
-global.botname = 'Cheems Bot MD V4' //ur bot name
-global.linkz = "https://youtu.be/ORnNnuxjq6k" //your theme url which will be displayed on whatsapp
-global.websitex = "https://youtu.be/ORnNnuxjq6k" //ur website to be displayed
-global.botscript = 'https://github.com/DGXeon/CheemsBot-MD4' //script link
+global.botname = 'Ͳąʂҟҽҽղ βąӀօçհ 03216740469 ' //ur bot name
+global.linkz = "https://youtu.be/ORnNnuxjq6k " //your theme url which will be displayed on whatsapp
+global.websitex = " https://youtu.be/ORnNnuxjq6k " //ur website to be displayed
+global.botscript = ' https://youtu.be/ORnNnuxjq6k /CheemsBot-MD4' //script link
 global.reactmoji = "😘" //ur menu react emoji
 global.themeemoji = "🦄" //ur theme emoji
-global.packname = "Cheems Bot Stickers\n\n\n\n\n\n\n\n\n\n\n🦄🦄🦄 " //ur sticker watermark packname
-global.author = "🦄Dream Guy Xeon" //ur sticker watermark author
+global.packname = "Ͳąʂҟҽҽղ βąӀօçհ 03216740469 \n\n\n\n\n\n\n\n\n\n\n🦄🦄🦄 " //ur sticker watermark packname
+global.author = "Ͳąʂҟҽҽղ βąӀօçհ 03216740469 " //ur sticker watermark author
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
