@@ -37,7 +37,7 @@ global.APIKeys = {
 
 //aumto functioner
 global.autoTyping = true //auto tying in gc (true to on, false to off)
-global.autoreadpmngc = trur //auto reading in gc and pm (true to on, false to off)
+global.autoreadpmngc = true //auto reading in gc and pm (true to on, false to off)
 global.autoReadGc = true //auto reading in gc (true to on, false to off)
 global.autoRecord = true //auto recording (true to on, false to off)
 global.available = true //auto available (true to on, false to off)
